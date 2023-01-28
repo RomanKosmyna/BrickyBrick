@@ -1,4 +1,4 @@
-# Studhub
+# BrickyBrick
 19.01.2023 - Start
 ----
 29.01.2023 - Structure
